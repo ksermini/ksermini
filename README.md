@@ -12,6 +12,7 @@ My dad’s a senior software architect. Growing up, he taught me SOLID principle
 - Code that holds up in production  
 - Leading by example and building team culture  
 - Making tech feel accessible — especially for girls who haven’t seen someone like them in this space  
+
 I was a team captain in sports before I was an engineer, and I bring that same energy to everything I do: competitive, collaborative, and committed to the win.
 ## Let’s Connect
 If you made it this far — thank you. Most people don’t even read the README. You probably read documentation, too. I already like you.
