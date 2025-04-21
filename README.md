@@ -1,64 +1,21 @@
-<h1 align="center">Hi, I'm Kayla 👋</h1>
+# 💫 About Me:
+Hey, I’m Kayla 👋<br>So here’s my story. I took an internship wanting to get into cybersecurity. I had just gotten a certification in pen testing with python. They said you will not code a lot in this role. Now I design and build low code and no code frameworks… I am a walking version of low code no code. I come from the business school, but let me tell you, if you're an engineering student that is asking the question: Where does this apply? Switch to CIS, right now. Not only did I learn about the business, I learned the groups and the people that I liked in the classes. I learned I like business math, it makes sense. And there is no lack of businesses.<br>And this is something that I tell my team all the time, how can you support the business if you do not know the business. How will you know that Tim on the treasury team spends an hour each day waiting for his daily report. How can you do the things that make people's lives easier, never harder. <br>Technical side? I care about clean architecture, writing code that doesn’t panic in production, and solving real problems with thoughtful design.<br>I grew up with my dad right there beside me. He’s a junior-dev-turned-senior-software-architect and the kind of guy who could explain the SOLID principles at breakfast like it was no big deal. He taught me cloud foundations before I even knew what GitHub was and then casually handed me off to go learn HTML on my own like it was a rite of passage. I didn’t realize it then, but that was the moment I got hooked.<br><br>What I work on<br>I started out in Financial Crimes Compliance. Sounds intense, right? It kind of was. I built real-time ETL pipelines, modular Python frameworks, and led some pretty major migrations off legacy systems. I created low-code no-code solutions that made data onboarding not just faster, but also kind of... enjoyable? At least, people stopped complaining.<br>Right now, I’m deep in the world of quantitative systems. I’m teaching myself C++ which is basically like unlocking a new part of my brain. I’m building a Monte Carlo option pricing engine and designing data pipelines that can support intelligent, adaptable trading strategies. It’s challenging in the best way.<br><br>What I care about<br>I like to learn. I like structure. I love when something just clicks. And I really believe that thoughtful design and teamwork beat duct tape and “just ship it” energy every time. I’ve always been competitive. That came from playing soccer growing up, I learned what it means to be on a team and being captain taught me how to lead by example and the benefit of culture over delivering for a team.<br>I also want to make tech feel more accessible and... cool. Especially for girls who’ve never seen someone like them in this field. I want to make this space feel less like a gated community and more like a campus where anyone can show up, ask questions, and actually belong.<br><br>What lights me up<br>Systems that are clean and flexible<br> Problems that haven’t been solved yet<br> Code that does more with less<br> And any opportunity to help someone feel confident in this space<br><br>If you made it this far, thanks for reading. Honestly, more people should be this committed. You probably even read documentation. I like you already.<br>Let me know if you want to swap ideas, chat systems, or just talk about how tech could be more human. I’m always up for a good conversation.<br>
 
-<p align="center">
-  Building scalable systems, decoding data, and solving real-world problems with clean architecture and a curious mind.
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kayla-sermini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaylasermini@yahoo.com) 
 
-### 🧠 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ksermini&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ksermini&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksermini&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-I'm a software engineer with a strong foundation in **data engineering**, **ETL frameworks**, and **real-time processing**. I specialize in building **modular, low-code/no-code solutions** that scale across business needs, especially in **Financial Crimes Compliance (FCC)** and investment data systems.
-
-Right now, I’m bridging the gap between engineering and finance—applying solid software design to quantitative systems and learning everything I can about strategy, trading, and risk.
-
-I thrive in fast-paced environments, love collaborating across teams, and believe that technical solutions should be as **elegant** as they are **effective**.
-
----
-
-### 🛠️ What I’m Working On
-
-- 🧬 **Event-driven, modular ETL frameworks** for real-time screening platforms  
-- 💸 **Monte Carlo Option Pricing Engine** in C++ for quant dev portfolios  
-- 🧠 **Sentiment analysis tools** using VADER + Twitter scraping for market signals  
-- 📈 **Quantitative and fundamental data collectors** for ML-based strategy modeling  
-- ⚙️ Designing pipelines that are portable, extensible, and optimized for volume-based processing  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ksermini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ⚙️ Tech Stack
-
-- **Languages**: Python, C++, SQL, Bash  
-- **ETL / Data**: Pandas, Dask, SQLAlchemy, SSIS, Pentaho  
-- **Cloud / DevOps**: Azure, Azure VMs, Azure DevOps (CI/CD), CyberArk  
-- **Orchestration**: Control-M  
-- **Design**: SOLID principles, OOP, metadata-driven architecture  
-- **Other Tools**: Git, YAML, JSON, VS Code, GitHub Actions  
-
----
-
-### 🚀 Quick Wins
-
-- Built a **Python-based no-code ETL engine** that dynamically transforms & delivers data based on config files—fully portable, self-documenting, and Control-M orchestrated  
-- Standardized **CI/CD pipelines** across multi-stack deployments (Python, MSSQL, Java, etc.)  
-- Designed a **real-time, volume-sensitive screening architecture** for new business onboarding  
-- Collaborated with cross-functional teams to roll out scalable solutions under tight deadlines  
-
----
-
-### 🧭 What I’m Exploring
-
-- Advanced C++ for high-performance trading systems  
-- Monte Carlo simulations & pricing models  
-- Building a personal data platform for trade research and ML  
-- Applying fundamentals, sentiment, and technical indicators into one strategy pipeline  
-
----
-
-### 📫 Let’s Connect
-
-I'm always open to chatting about data engineering, fintech, or creative ideas that make systems smarter.
-
-- 💼 [LinkedIn](https://linkedin.com/in/kaylasermini)  
-- 📩 kaylasermini@gmail.com  
-- 🧠 Projects below ⬇️  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
