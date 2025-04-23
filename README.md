@@ -1,5 +1,5 @@
 # 💫 About Me
-Hey, I’m Kayla. I started out aiming for a cybersecurity role, fresh off a pentesting cert in Python. They told me, “you won’t be coding much here.” Now I design and build low code and no code frameworks from the ground up. I’m basically a walking example of low code no code.
+Hey, I’m Kayla. I started out aiming for a cybersecurity role, fresh off a pentesting cert in Python. I landed an internship and the only thing they told me was, “you won’t be coding much here.” Now I design and build low code and no code frameworks from the ground up. I’m basically a walking example of low code no code.
 I come from a business background, but I’ve always had an engineer’s mindset. I learned how companies run, what teams need, and why knowing the business matters. If you don’t know what Tim in Treasury waits an hour on every morning for his application to load, how can you build something that actually helps him?
 ## What I Work On
 I got my start in Financial Crimes Compliance. Sounds intense? It was. I built real-time ETL pipelines, led migrations off legacy platforms, and created modular Python frameworks that turned onboarding into something fast, reusable, and even... enjoyable.
